@@ -26,3 +26,7 @@ the script also.
 If running on Windows and you get a BrokenPipeError, try setting the num_worker of torch.utils.data.DataLoader() to 0.
 
 Enjoy!
+
+Presentation link: https://docs.google.com/presentation/d/1R3ShE6ieZuv-PbrPfE7imWKHHuW1aIzUbnDaPD-wxsk/edit?usp=sharing 
+Documentation link: https://docs.google.com/document/d/19cdSHghHLT0M-dtZ9B0OSlebFIekTZUywa6X3IPej-s/edit?usp=sharing
+Note that you will need UTMail to view these links
